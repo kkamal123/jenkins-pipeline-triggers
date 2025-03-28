@@ -1,5 +1,4 @@
 import socket
-import os
 
 def main():
     hostname = socket.gethostname()
